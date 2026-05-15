@@ -6,7 +6,7 @@
   Replace RAW_BASE with your actual repo URL before deploying.
 */
 
-const RAW_BASE = 'https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_REPO/main';
+const RAW_BASE = 'https://media.githubusercontent.com/media/UMMMM-GUYSSS/Portal-Single-File-Attempt/refs/heads/main';
 
 // Files that live at the repo root
 const ROOT_FILES = new Set([
